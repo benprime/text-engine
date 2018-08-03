@@ -6,3 +6,5 @@ This "game" works, but much of it is unpolished. It was a time-constrained chall
 
 There are build configrations "DebugAdmin" and "ReleaseAdmin" that build a seperate executable for running the game in "admin mode".
 Admin mode adds additional commands to place monsters and create the map.
+
+![screen shot of project running in admin mode](https://github.com/benprime/text-engine/blob/master/text-engine.png?raw=true)
